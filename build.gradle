@@ -62,7 +62,6 @@ jar {
 		rename { "${it}_${archivesBaseName}" }
 	}
 }
-
 // Configure the maven publication
 publishing {
 	publications {
